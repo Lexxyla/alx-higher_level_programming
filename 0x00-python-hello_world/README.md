@@ -88,5 +88,5 @@ Prototypes for functions written in this project:
   `$PYFILEc` (ex. `export PYFILE=my_main.py` => output filename: `my_main.pyc`).
 
 * **13. ByteCode -> Python #1**
-  * [102-magic_calculation.py](./103-magic_calculation.py): Python function matching exactly
+  * [102-magic_calculation.py](./102-magic_calculation.py): Python function matching exactly
   a bytecode provided by Holberton School.
