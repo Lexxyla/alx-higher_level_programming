@@ -11,6 +11,9 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 * [0x04. Python - More Data Structures: Set, Dictionary](./0x04-python-more_data_structures)
 * [0x05. Python - Exceptions](./0x05-python-exception)
 * [0x06. Python - Classes and Objects](./0x06-python-classes)
+* [0x07. Python - Test-driven development](./0x07-python-test_driven_development)
+* [0x08. Python - More Classes and Objects](./0x08-python-more_classes)
+
 
 ## Author :
 * **Bamidele Adefolaju** <[lexxyla](https://github.com/lexxyla)>
