@@ -271,7 +271,7 @@ print("I")
 print("Love")
 print("Python")
 ```
-![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/70f9ea0e969dfcc407a7427aba4786d87a920494.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220628T123234Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b26909023628714e21f00af45f7b51243ff483edf4624a2cba3681a3849e4ef1)
+![alt text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/70f9ea0e969dfcc407a7427aba4786d87a920494.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220628%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220628T145801Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=28cc1540430447d619d0bde0fd16f57d694de58ae054aad768cb3f0b018d4095)
 
 
 * **34. Clear strings**
