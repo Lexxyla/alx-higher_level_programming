@@ -1,6 +1,4 @@
 #!/usr/bin/python3
-# 101-stats.py
-# Brennan D Baraban <375@holbertonschool.com>
 """Reads from standard input and computes metrics.
 
 After every ten lines or the input of a keyboard interruption (CTRL + C),
