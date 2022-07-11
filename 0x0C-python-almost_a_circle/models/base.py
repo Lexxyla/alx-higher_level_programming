@@ -2,6 +2,7 @@
 
 """Defines a base class model"""
 
+
 class Base:
     """Base Model
     This Represents the "Base" for all other class in the project
@@ -12,7 +13,7 @@ class Base:
 
     def __init__(self, id=None):
         """ Initializes a new Base
-        
+
         Args:
             id(int) : public instance attribute of the new Base
         """
