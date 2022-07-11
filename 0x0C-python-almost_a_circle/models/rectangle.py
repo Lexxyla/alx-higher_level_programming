@@ -24,7 +24,4 @@ class Rectangle(Base):
         self.height = height
         self.x = x
         self.y = y
-        self.new_method(id)
-
-    def new_method(self, id):
         super().__init__(id)
