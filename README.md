@@ -19,7 +19,7 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 
 
 
-## Author :
+## Author:
 * **Bamidele Adefolaju** <[lexxyla](https://github.com/lexxyla)>
 
 ## Acknowledgements :pray:
