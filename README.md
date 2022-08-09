@@ -4,6 +4,7 @@ This repository contains programs written for the higher-level programming track
 Simultaneously, I continued to reinforce and expand my skills in C and shell scripting. The specific list of projects contained follows:
 
 * [0x00. Python - Hello, World](./0x00-python-hello_world)
+* [0x00. AirBnB clone - The console](https://github.com/Aysuarex/AirBnB_clone)
 * [0x01. Python - if/else, loops, functions](./0x01-python-if_else_loops_functions)
 * [0x02. Python - import & modules](./0x02-python-import_modules)
 * [0x03. Python - Data Structures: Lists, Tuples](./0x03-python-data_structures)
@@ -16,7 +17,7 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 * [0x0A. Python - Inheritance](./0x0A-python-inheritance)
 * [0x0B. Python - Input/Output](./0x0B-python-input_output)
 * [0x0C. Python - Almost a circle](./0x0C-python-almost_a_circle)
-
+* [0x0D. SQL - Introduction](./0x0D-SQL_introduction)
 
 
 ## Author:
