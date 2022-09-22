@@ -8,9 +8,6 @@ how to utilize cookies.
 Task six was an algorithm challenge separate from the overall project theme
 completed in Python.
 
-## Tests :heavy_check_mark:
-
-* [tests](./tests): Folder of test files.
 
 ## Tasks :page_with_curl:
 
@@ -40,7 +37,7 @@ server set up on a container.
 
 * **5. cURL POST parameters**
   * [5-post_params.sh](./5-post_params.sh): Bash script that sends a `POST`
-  request to a given URL with the variables `email=hr@holbertonschool.com` and
+  request to a given URL with the variables `email=test.gmail.com` and
   `subject=I will always be here for PLD` and displays the response body.
 
 * **6. Find a peak**
